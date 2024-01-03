@@ -41,12 +41,12 @@ color: red;}
 </marquee>
 <ul>
   <li><a class="active" href="#https://beyonder-hari.github.io/HTMLBasicGuide/">Home</a></li>
-  <li><a href="#news">HTML Tags</a></li>
-  <li><a href="#contact">History</a></li>
-   <li><a href="#contact">Other Sources</a></li>
-    <li><a href="#contact">Videos</a></li>
-  <li><a href="">About</a></li>
+  <li><a href="https://beyonder-hari.github.io/HTMLTags/">HTML Tags</a></li>
+  <li><a href="https://beyonder-hari.github.io/HistoryOfHTML/">History</a></li>
+   <li><a href="https://beyonder-hari.github.io/HTMLSources/">Other Sources</a></li>
+    <li><a href="https://beyonder-hari.github.io/HTMLVideos/">Videos</a></li>
+  <li><a href="https://beyonder-hari.github.io/AboutMe/">About</a></li>
 </ul>
 
-<h1 align="center"> Page needed to be updated</h1></strong></big>
+<h1 align="center"> Page needed to be updated</h1>
 </body></html>
